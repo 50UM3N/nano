@@ -92,12 +92,6 @@
       <SpecificVersion>False</SpecificVersion>
       <HintPath>bin\Debug\Bunifu.UI.WinForms.BunifuToolTip.dll</HintPath>
     </Reference>
-    <Reference Include="Bunifu.UI.WinForms.BunifuTransition">
-      <HintPath>..\..\UI Designer DLL\Bunifu UI\Bunifu.UI.WinForms.BunifuTransition.dll</HintPath>
-    </Reference>
-    <Reference Include="Bunifu_UI_v1.5.3">
-      <HintPath>..\..\UI Designer DLL\Bunifu UI\Bunifu_UI_v1.5.3.dll</HintPath>
-    </Reference>
     <Reference Include="Guna.UI">
       <HintPath>E:\Documents\Projects\Visual Studio\UI Designer DLL\Guna UI\Guna.UI.dll</HintPath>
     </Reference>
