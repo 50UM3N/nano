@@ -1,10 +1,10 @@
 # NANO
 A simple music player for windows using Visual Basic .NET.
 
-<img src="preview/pic1.png" alt="Screenshot" width="300px">
-<img src="preview/pic4.png" alt="Screenshot" width="300px">
-<img src="preview/pic2.png" alt="Screenshot" width="300px">
-<img src="preview/pic3.png" alt="Screenshot" width="300px">
+<img src="preview/pic1.png" alt="Screenshot" width="600px">
+<img src="preview/pic4.png" alt="Screenshot" width="600px">
+<img src="preview/pic2.png" alt="Screenshot" width="600px">
+<img src="preview/pic3.png" alt="Screenshot" width="600px">
 
 ## Installation
 Download and install two UI frameworks [Guna Framework](https://gunaframework.com/) and [Bunifu Framework](https://bunifuframework.com/).
